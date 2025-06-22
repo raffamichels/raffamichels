@@ -1,6 +1,4 @@
-## Olá, mundo!! Prazer, me chamo Raffael. Atualmente cursando Engenharia de Software na UniSatc, estou estudando dados com foco em sua aplicação na gestão e estratégia de produto. Busco utilizar dados de forma inteligente ##para orientar decisões, aprimorar experiências e impulsionar o desenvolvimento de soluções que gerem valor real para o negócio.
-
-##Tenho interesse em como os dados podem apoiar o ciclo de vida de produtos digitais, desde a descoberta de oportunidades até a definição de roadmap e análise de impacto. Meu objetivo é me desenvolver com grande interesse ##em gestão de produto, onde posso unir pensamento analítico, visão de produto e colaboração com equipes multidisciplinares para liderar iniciativas orientadas por dados. 👋
+## Olá, mundo!! Prazer, me chamo Raffael. Aqui você poderá acompanhar um pouco mais de meus projetos de estudo e evolução profissional.
 
 <!--
 **raffamichels/raffamichels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
